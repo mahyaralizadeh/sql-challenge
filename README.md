@@ -3,6 +3,7 @@
 You are presented with 6 CSV files from Pewlett Hackard containing employee data from 1980s ad 1990s. In this project you will need to design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data
 ### Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
+C:\Users\mahya\OneDrive\Desktop\module 9 hw\Starter_Code\data\employee_database_ERD.png
 
 #### Data Engineering
    Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
