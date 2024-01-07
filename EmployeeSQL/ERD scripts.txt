@@ -1,4 +1,5 @@
-employee_database_ERDdepartments 
+employee_database_ERD
+departments 
 -
   dept_no VARCHAR pk
   dept_name VARCHAR 
