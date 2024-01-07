@@ -1,15 +1,17 @@
 # sql-challenge
-Instructions
+## Instructions
 You are presented with 6 CSV files from Pewlett Hackard containing employee data from 1980s ad 1990s. In this project you will need to design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data
+### Data Modeling
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
 
-Data Engineering
+#### Data Engineering
    Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
 Be sure to create tables in the correct order to handle foreign keys.
 Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
 
-Data Analysis
+##### Data Analysis
    List the following details of each employee: employee number, last name, first name, sex, and salary.
 List first name, last name, and hire date for employees who were hired in 1986.
 List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
